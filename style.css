@@ -1,0 +1,13 @@
+form{
+    margin: 0 auto;
+    text-align: center;
+}
+input{
+    width: 200px;
+}
+.button{
+    height: 45px;
+    background-color: darkviolet ;
+    color: white;
+    font-size: 22px;
+}
